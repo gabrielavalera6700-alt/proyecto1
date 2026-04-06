@@ -1,4 +1,4 @@
-import streamlit as st
-import numpy as np
-import pandas as pd
-import plotly.graph_objects as go
+streamlit>=1.40.0
+numpy>=1.24.0
+pandas>=2.0.0
+plotly.graph_objects>=5.18.0

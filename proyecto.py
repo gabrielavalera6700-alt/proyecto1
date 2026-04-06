@@ -10,7 +10,7 @@ Original file is located at
 import streamlit as st
 import numpy as np
 import pandas as pd
-import plotly.graph_objects as go
+import plotly as go
 
 # --- CONFIGURACIÓN Y ESTILOS ---
 st.set_page_config(page_title="Gasoducto Trans-Andino", layout="wide")
